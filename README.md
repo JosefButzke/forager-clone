@@ -1,3 +1,5 @@
 ﻿# forager-clone
 
-[![Watch the video](https://img.youtube.com/vi/hjqu4Gdqofc/0.jpg)](https://youtu.be/hjqu4Gdqofc)
+[![Watch the video](https://img.youtube.com/vi/hjqu4Gdqofc/maxresdefault.jpg)](https://youtu.be/hjqu4Gdqofc)
+
+
